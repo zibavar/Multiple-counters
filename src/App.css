@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+}
+.Header{
+  box-shadow: 2px 2px 9px #ced4da;
+  text-align: center;
+  color: #fff;
+  background-color: #6c757d;
+}
+.center{
+  text-align: center;
+  
+ 
+}
+.btn1{
+  width: 35%;
+  border-radius:25px;
+}
+.card-body{
+  height: 100px;
+}
+.card{
+border-radius: 0;
+box-shadow: 2px 2px 9px #ced4da;
+}
+.p{
+  text-align: center;
+  font-size: xxx-large;
+}
+.form{
+  box-shadow: 2px 2px 9px #ced4da;
+  padding: 21px;
+  padding-bottom: 0;
+}
+.form-control{
+  box-shadow: 2px 2px 9px #ced4da;
+  border-radius: 1.25rem;
+  padding: 1.375rem .75rem;
+  border: none;
+}
+.secondary{
+  border-radius: 1.3rem ;
+  box-shadow: 2px 2px 9px #ced4da;
+}
+
+.btn-warning {
+
+  border-radius:  1.3rem ;
+  
+}
